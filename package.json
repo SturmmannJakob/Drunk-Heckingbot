@@ -14,7 +14,7 @@
     "postinstall": "tsc",
     "production": "node build/src/index.js"
   },
-  "repository": "https://github.com/jonnynabors/beeroes-bot.git",
+  "repository": "https://github.com/SturmmannJakob/Drunk-Heckingbot",
   "author": "Jonny Nabors <jonnynabors@gmail.com>",
   "license": "MIT",
   "dependencies": {
