@@ -65,8 +65,8 @@ const clearDrinksForGuild = async (message: Message) => {
 const getBeerInformation = async (beerName: string) => {
   const response = await axios.get('https://api.untappd.com/v4/search/beer', {
     params: {
-      client_id: F20781FA80B8B85F2DC1DB380FADE5B416D324DC,
-      client_secret: 208C92E4238DE3AE10B681A28FF542AF9E42A520
+      client_id: process.env.UNTAPPD_CLIENT_ID,
+      client_secret: process.env.UNTAPPD_CLIENT_SECRET
       q: beerName,
     },
   });
