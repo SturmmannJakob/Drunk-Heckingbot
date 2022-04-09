@@ -1443,11 +1443,6 @@ dblapi.js@2.4.0:
   resolved "https://registry.yarnpkg.com/dblapi.js/-/dblapi.js-2.4.0.tgz#5e209847f2625e380dabaff925baacee33a66791"
   integrity sha512-SqDYVcV1DBQnyhySTjd+Qvzu7jFr+4eKwl56fGpIti7OlXGF5dmDPeo3jQfRlOXTRn5/I5997MDIJukoDxE3Mg==
 
-dblapi.js@2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/dblapi.js/-/dblapi.js-2.4.0.tgz#5e209847f2625e380dabaff925baacee33a66791"
-  integrity sha512-SqDYVcV1DBQnyhySTjd+Qvzu7jFr+4eKwl56fGpIti7OlXGF5dmDPeo3jQfRlOXTRn5/I5997MDIJukoDxE3Mg==
-
 debug@=3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/debug/-/debug-3.1.0.tgz#5bb5a0672628b64149566ba16819e61518c67261"
@@ -3422,9 +3417,9 @@ mkdirp@0.x, mkdirp@^0.5.1:
     minimist "0.0.8"
 
 moment@>=2.14.0:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
-  integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
+  version "2.29.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.2.tgz#00910c60b20843bcba52d37d58c628b47b1f20e4"
+  integrity sha512-UgzG4rvxYpN15jgCmVJwac49h9ly9NurikMWGPdVxm8GZD6XjkKPxDTjQQ43gtGgnV3X0cAyWDdP2Wexoquifg==
 
 mri@^1.1.4:
   version "1.1.5"
